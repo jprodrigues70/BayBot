@@ -54,6 +54,11 @@ pHit_near = totalHit_Near / totalHit;
 pHit_far = totalHit_far / totalHit;
 ```
 
+```
+pMiss_near = totalMiss_Near / totalMiss;
+pMiss_far = totalMiss_far / totalMiss;
+```
+
 
 Em seguida, calculamos a probabilidade de cada intensidade de tiro ser de perto ou de longe e acertar o oponente.
 
